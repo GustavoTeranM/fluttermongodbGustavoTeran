@@ -1,0 +1,19 @@
+[{
+    "_id": {
+      "$oid": "623274b2f7270904bf9fc361"
+    },
+    "id_med": "101",
+    "motivo": " Antiflamatorios "
+  },{
+    "_id": {
+      "$oid": "623274b2f7270904bf9fc362"
+    },
+    "id_med": "102",
+    "motivo": " Antisepticos "
+  },{
+    "_id": {
+      "$oid": "623274b2f7270904bf9fc363"
+    },
+    "id_med": "103",
+    "motivo": " Clorhexidina "
+  }]

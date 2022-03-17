@@ -1,0 +1,19 @@
+[{
+    "_id": {
+      "$oid": "623271e9f7270904bf9fc34f"
+    },
+    "id-servico": "1086",
+    "nombre": "Odontologia"
+  },{
+    "_id": {
+      "$oid": "623271e9f7270904bf9fc350"
+    },
+    "id-servico": "1087",
+    "nombre": "Periodoncia"
+  },{
+    "_id": {
+      "$oid": "623271e9f7270904bf9fc351"
+    },
+    "id-servico": "1088",
+    "nombre": "ortodoncia"
+  }]

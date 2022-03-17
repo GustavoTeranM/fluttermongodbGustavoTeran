@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "62326b25f7270904bf9fc349"
+    },
+    "id-cita": "123",
+    "Fecha": "30/03/2022",
+    "Hora": "3:pm",
+    "Motivo ": "Odontologia"
+  },{
+    "_id": {
+      "$oid": "62326b25f7270904bf9fc34a"
+    },
+    "id-cita": "124",
+    "Fecha": "30/04/2022",
+    "Hora": "1:pm",
+    "Motivo ": "Odontologia"
+  },{
+    "_id": {
+      "$oid": "62326b25f7270904bf9fc34b"
+    },
+    "id-cita": "124",
+    "Fecha": "15/03/2022",
+    "Hora": "10:am",
+    "Motivo ": "Ortodoncia"
+  }]

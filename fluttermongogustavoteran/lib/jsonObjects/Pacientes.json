@@ -1,0 +1,40 @@
+[{
+    "_id": {
+      "$oid": "6232659ef7270904bf9fc33c"
+    },
+    "cedula ": " 1086756508 ",
+    "nombre ": " Gustavo ",
+    "apellido ": " Teran ",
+    "genero ": " M ",
+    "edad ": " 23",
+    "estrato  ": " 1 ",
+    "rh": " o- ",
+    "telefono ": "3175680939 ",
+    "Direccion  ": " Pupiales "
+  },{
+    "_id": {
+      "$oid": "6232659ef7270904bf9fc33d"
+    },
+    "cedula ": " 108675568 ",
+    "nombre ": " Maria ",
+    "apellido ": " Rosero ",
+    "genero ": " F ",
+    "edad ": " 28",
+    "estrato  ": " 3 ",
+    "rh": " o+ ",
+    "telefono ": "316568021 ",
+    "Direccion  ": " pasto "
+  },{
+    "_id": {
+      "$oid": "6232659ef7270904bf9fc33e"
+    },
+    "cedula ": " 10987756508 ",
+    "nombre ": " Carmen ",
+    "apellido ": " Perez ",
+    "genero ": " F ",
+    "edad ": " 24",
+    "estrato  ": " 4 ",
+    "rh": " o+",
+    "telefono ": "31756458939 ",
+    "Direccion  ": "Iles"
+  }]

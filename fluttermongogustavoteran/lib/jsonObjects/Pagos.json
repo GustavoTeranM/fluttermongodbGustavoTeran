@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "62327402f7270904bf9fc35b"
+    },
+    "id_pago": "01",
+    "motivo": " Blanqueamiento",
+    "fecha": " 03/03/2022",
+    "Valor": 600000
+  },{
+    "_id": {
+      "$oid": "62327402f7270904bf9fc35c"
+    },
+    "id_pago": "02",
+    "motivo": " Retiro brackets",
+    "fecha": " 04/03/2022",
+    "Valor": 400000
+  },{
+    "_id": {
+      "$oid": "62327402f7270904bf9fc35d"
+    },
+    "id_pago": "03",
+    "motivo": " Limpieza bucal",
+    "fecha": " 07/03/2022",
+    "Valor": 50000
+  }]

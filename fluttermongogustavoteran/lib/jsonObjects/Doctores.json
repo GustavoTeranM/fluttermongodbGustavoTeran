@@ -1,0 +1,46 @@
+[{
+    "_id": {
+      "$oid": "62326800f7270904bf9fc343"
+    },
+    "cedula ": "14785256 ",
+    "nombre ": " Maria ",
+    "apellido ": " Cebaloos ",
+    "genero ": " F ",
+    "edad ": " 28",
+    "estrato  ": " 3 ",
+    "rh": " o+ ",
+    "Turno": " Mañana ",
+    "Especialidad ": "Odontologia  ",
+    "telefono ": "31656458 ",
+    "Direccion  ": " popayan "
+  },{
+    "_id": {
+      "$oid": "62326800f7270904bf9fc344"
+    },
+    "cedula ": "187785256 ",
+    "nombre ": " Jairo ",
+    "apellido ": " Gutierres ",
+    "genero ": " M ",
+    "edad ": " 40",
+    "estrato  ": " 3 ",
+    "rh": " o+ ",
+    "Turno": " Tarde",
+    "Especialidad ": "Odontologia  ",
+    "telefono ": "313564584",
+    "Direccion  ": " Cali "
+  },{
+    "_id": {
+      "$oid": "62326800f7270904bf9fc345"
+    },
+    "cedula ": "14785226 ",
+    "nombre ": " santiago ",
+    "apellido ": " Chunata ",
+    "genero ": " M ",
+    "edad ": " 35",
+    "estrato  ": " 5",
+    "rh": " o+ ",
+    "Turno": " Mañana ",
+    "Especialidad ": "Odontologia  ",
+    "telefono ": "316564785 ",
+    "Direccion  ": " popayan "
+  }]

@@ -1,0 +1,19 @@
+[{
+    "_id": {
+      "$oid": "623272d4f7270904bf9fc355"
+    },
+    "id_trat": "2040",
+    "nombre": "Extraccion dental"
+  },{
+    "_id": {
+      "$oid": "623272d4f7270904bf9fc356"
+    },
+    "id_trat": "2041",
+    "nombre": "Blanqueamiento"
+  },{
+    "_id": {
+      "$oid": "623272d4f7270904bf9fc357"
+    },
+    "id_trat": "2042",
+    "nombre": "calzados en dientes superiores"
+  }]
